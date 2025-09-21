@@ -1,4 +1,4 @@
-# 📚 Data Science & Machine Learning Portfolio
+# 📚 Data Science & Machine Learning
 
 This repository showcases a collection of projects spanning machine learning, data science, and deep learning, with a focus on real-world applications and clear methodology.
 
